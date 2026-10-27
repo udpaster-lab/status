@@ -1,1 +1,1 @@
-{"status":"detected","message":""}
+{"fe":"online","fi":"offline","re":"online","message":""}
