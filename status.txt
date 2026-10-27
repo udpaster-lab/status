@@ -1,1 +1,1 @@
-{"status":"online","message":""}
+{"status":"updating","message":""}
